@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283906124664",
+    "project_id": "fir-mvvm-1844e",
+    "storage_bucket": "fir-mvvm-1844e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283906124664:android:5fc5c8080c314034f5b68d",
+        "android_client_info": {
+          "package_name": "com.yegon.firebasemvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAptlgv-77TtkuAbsahv7Q2YzzM6L3B0yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
